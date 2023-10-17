@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url("./img/Background.jpg");
+    background-image: url("../img/Background.jpg");
 }
 
 h1{
@@ -21,7 +21,7 @@ li{
 }
 
 .top-image {
-    background-image: url("./img/TopImg.png");
+    background-image: url("../img/TopImg.png");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
